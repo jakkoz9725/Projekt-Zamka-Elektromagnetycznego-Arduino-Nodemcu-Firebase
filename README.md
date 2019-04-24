@@ -9,3 +9,11 @@ Aplikacja Android:
 Aplikacja Okienkowa:
 * Sterowanie tak jak w przypadku aplikacji mobilnej
 * Możliwość zbindowania klawiszy do każdej z operacji, gdzie aplikacja działa w tle a dzięki bibliotece JNativeHook nasłuchuje zapisanych klawiszy gdziekolwiek znajduje się aktualny SCREEN FOCUS użytkownika.
+
+## Schemat projektu
+
+![schematProjektu](https://user-images.githubusercontent.com/35427912/56656084-d9fde980-6694-11e9-8caa-d5aa2b1bfdf9.jpg)
+
+Schemat stworzony w Firtzing, link: https://www.dropbox.com/s/58otll1cdw05g23/SchematZamkeElektromagnetycznego.fzz?dl=0
+
+Program Fritzing : http://fritzing.org/home/
